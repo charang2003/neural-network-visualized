@@ -1,2 +1,6 @@
 venv/
 fashion_mnist_images/
+fashion_mnist_images.zip/
+train_dict.pkl/
+train_dict.pkl/
+
